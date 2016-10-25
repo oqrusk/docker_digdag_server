@@ -1,0 +1,13 @@
+
+digdag:
+
+
+postgresql:
+  image:
+  ports:
+    -
+  links:
+  volumes:
+    -
+  environment:
+  
